@@ -8,5 +8,6 @@ namespace Git_app
 {
     class Upload_class
     {
+        public int MyProperty { get; set; }
     }
 }
